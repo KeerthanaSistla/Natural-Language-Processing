@@ -1,0 +1,129 @@
+Natural Language Processing (NLP) is a field of Artificial Intelligence (AI) that enables computers to understand, interpret, generate, and interact using human language (text or speech).
+
+It combines:
+
+Linguistics (how language works)
+
+Computer Science (algorithms & programming)
+
+Machine Learning & Deep Learning (learning from data)
+
+Core Goals of NLP
+
+Understand human language
+
+Generate human-like language
+
+Extract meaning from text or speech
+
+Enable human–computer interaction
+
+Main Components of NLP
+1. Natural Language Understanding (NLU)
+
+Focuses on comprehension.
+
+Sentiment analysis
+
+Entity recognition
+
+Intent detection
+
+Text classification
+
+2. Natural Language Generation (NLG)
+
+Focuses on producing language.
+
+Text generation
+
+Chatbots
+
+Automatic summarization
+
+Machine translation
+
+Key NLP Tasks
+
+Tokenization – Breaking text into words/sentences
+
+Part-of-Speech Tagging – Identifying nouns, verbs, etc.
+
+Named Entity Recognition (NER) – Detecting names, places, dates
+
+Sentiment Analysis – Detecting emotions or opinions
+
+Machine Translation – Translating between languages
+
+Speech Recognition – Converting speech to text
+
+Text Summarization – Creating shorter versions of text
+
+Question Answering – Answering questions from text
+
+NLP Techniques
+1. Rule-Based Systems
+
+Based on grammar rules
+
+Early NLP systems
+
+2. Statistical Methods
+
+Probabilistic models
+
+N-grams
+
+Hidden Markov Models
+
+3. Machine Learning
+
+Naive Bayes
+
+Support Vector Machines
+
+4. Deep Learning (Modern NLP)
+
+Neural Networks
+
+RNN, LSTM
+
+Transformers (e.g., OpenAI models)
+
+Real-World Applications
+
+Chatbots (like ChatGPT)
+
+Voice assistants (Siri, Alexa)
+
+Google Translate
+
+Spam detection
+
+Search engines
+
+Autocomplete systems
+
+Email filtering
+
+Benefits of NLP
+
+Automates language tasks
+
+Improves customer service
+
+Saves time
+
+Extracts insights from large text data
+
+Challenges in NLP
+
+Ambiguity in language
+
+Sarcasm and idioms
+
+Multiple languages
+
+Context understanding
+
+Bias in models
